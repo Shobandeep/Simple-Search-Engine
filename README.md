@@ -1,4 +1,5 @@
-**Simple Search Engine** is an indexing engine which indexes a give web page using Breadth First Search. 
+**[Simple Search Engine](http://34.73.37.169:8080/)** is an indexing engine which indexes a give web page using Breadth First Search. 
+You can explore the app yourself at --> 
 
 Breakdown of the website:
 
