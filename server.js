@@ -87,7 +87,7 @@ app.get('/custom_search_ajax', function(req, res) {
     });
   }
 
-  // if don't care about case sensitive
+  // if we don't care about case sensitive
   if(caseSen) {
     wordmatcher = 'upper('+ wordmatcher + ')'
     words.forEach((word, index) => {
