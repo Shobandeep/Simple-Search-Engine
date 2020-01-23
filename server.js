@@ -14,7 +14,7 @@ let con = mysql.createConnection(mySQLparams);
 //establish connection
 con.connect(function(err) {
   if (err) throw err
-  console.log("Connected!")
+  console.log("Connected!");
 });
 
 /*
