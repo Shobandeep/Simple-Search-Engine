@@ -3,8 +3,11 @@
 Since I'm not rich enough to have the indexer running 24/7, I've settled for a solution where the user can input the link they want indexed and select how deep the search will go (to a maximum level of 3).
 
 **level 0:** won't do anything :/
+
 **level 1:** index the page provided
+
 **level 2:** index the children of the page provided
+
 **level 3:** index the children of the children of the page provided
 
 Breakdown of the website:
