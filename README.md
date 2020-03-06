@@ -1,6 +1,6 @@
-**[Simple Search Engine](http://34.73.37.169:8080/)** is an indexing engine which indexes a give web page using Breadth First Search. 
+**[Simple Search Engine](https://simplesearchengine.site/)** is an indexing engine which indexes a give web page using Breadth First Search. 
 
-Since I'm not rich enough to have the indexer running 24/7, I've settled for a solution where the user can input the link they want indexed and select how deep the search will go (to a maximum level of 3).
+Since I lack the funds to have the indexer running 24/7, I've settled for a solution where the user can input the link they want indexed and select how deep the search will go (to a maximum level of 3).
 
 **level 0:** won't do anything :/
 
